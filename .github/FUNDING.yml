@@ -1,0 +1,11 @@
+# Funding configuration
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+#
+# Uncomment and configure one or more platforms to enable sponsor links
+# on the org profile and its public repositories.
+
+# github: [m7xbeast]
+# open_collective: m7xlab
+# ko_fi: m7xlab
+# tidelift: m7xlab
+# custom: ["https://m7xlab.top"]
