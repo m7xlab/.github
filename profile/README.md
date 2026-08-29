@@ -86,8 +86,8 @@ We build with:
 We're easiest to reach by email — we read every message.
 
 - **Website:** [m7xlab.top](https://m7xlab.top)
-- **Email:** [hello@m7xlab.top](mailto:hello@m7xlab.top)
-- **General:** [m7xlab@gmail.com](mailto:m7xlab@gmail.com)
+- **General inquiries:** [hello@m7xlab.top](mailto:hello@m7xlab.top)
+- **Support:** [support@m7xlab.top](mailto:support@m7xlab.top)
 - **X / Twitter:** [@m7xlab](https://x.com/m7xlab)
 
 For product support, please use the issue tracker on the relevant repository (e.g. [m7xlab/ivdrive/issues](https://github.com/m7xlab/ivdrive/issues)).
